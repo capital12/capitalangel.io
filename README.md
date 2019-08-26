@@ -1,5 +1,5 @@
 ## Capital Ángel 
-![_Modelo de Impulso al Desarrollo del Valor de la Cadena de Capital Ángel_](https://user-images.githubusercontent.com/54549413/63709501-a7a7f880-c7fc-11e9-9f65-2a66e2b5c648.png)
+![_Modelo de Impulso al Desarrollo del Valor de la Cadena de Capital Ángel_ (2)](https://user-images.githubusercontent.com/54549413/63714678-e2635e00-c807-11e9-81f9-179699322379.png)
 
 ### Presentaciones Inversionistas 
 [https://drive.google.com/drive/folders/1cl08DgfVkH235JzhVFBNlqjLcZqQs0fS?usp=sharing](url)
