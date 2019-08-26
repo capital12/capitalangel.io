@@ -1,4 +1,4 @@
-:
+Capital angel 
 ![_Modelo de Impulso al Desarrollo del Valor de la Cadena de Capital Ángel_](https://user-images.githubusercontent.com/54549413/63709501-a7a7f880-c7fc-11e9-9f65-2a66e2b5c648.png)
 ## Presentaciones Inversionistas Merida 
 [https://drive.google.com/drive/folders/1syx5_6AaaCAZS4aVR9BZS0w7nluN9WE5?usp=sharing](url)
