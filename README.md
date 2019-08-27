@@ -1,8 +1,9 @@
 ## Capital Ángel 
-![_Modelo de Impulso al Desarrollo del Valor de la Cadena de Capital Ángel_ (2)](https://user-images.githubusercontent.com/54549413/63714678-e2635e00-c807-11e9-81f9-179699322379.png)
+![1](https://user-images.githubusercontent.com/54549413/63798107-0a69c480-c8cf-11e9-87d9-2d5750c30f2f.png)
+
 
 ### Presentaciones Inversionistas 
-[Presentaciones inversionistas.pdf](https://github.com/capital12/capitalangel.io/files/3542672/Presentaciones.inversionistas.pdf)
+[Presentación Inversionistas.pdf](https://github.com/capital12/capitalangel.io/files/3547624/Presentacion.Inversionistas.pdf)
 
 ### Presentaciones Emprendedores  
-[Presentaciones emprendedores.pdf](https://github.com/capital12/capitalangel.io/files/3542675/Presentaciones.emprendedores.pdf)
+[Presentación Emprendedores.pdf](https://github.com/capital12/capitalangel.io/files/3547630/Presentacion.Emprendedores.pdf)
